@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Table"/>
+    <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="javax.persistence.Column"/>
+    <fullyQualifiedTypeName name="javax.ejb.Remote"/>
+    <fullyQualifiedTypeName name="javax.persistence.PersistenceContext"/>
+    <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
+    <fullyQualifiedTypeName name="javax.management.Query"/>
+    <fullyQualifiedTypeName name="javax.jws.WebService"/>
+    <fullyQualifiedTypeName name="metier.session.IBanqueLocal"/>
+    <fullyQualifiedTypeName name="javax.ejb.EJB"/>
+    <fullyQualifiedTypeName name="metier.entities.Compte"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="javax.persistence.TemporalType"/>
+    <fullyQualifiedTypeName name="javax.persistence.Temporal"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="javax.jws.WebMethod"/>
+    <fullyQualifiedTypeName name="javax.jws.WebParam"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="javax.ejb.Stateless"/>
+    <fullyQualifiedTypeName name="javax.jws.soap.SOAPBinding"/>
+    <fullyQualifiedTypeName name="javax.jws.soap.SOAPBinding.ParameterStyle"/>
+    <fullyQualifiedTypeName name="javax.jws.soap.SOAPBinding.Use"/>
+    <fullyQualifiedTypeName name="javax.jws.WebResult"/>
+</qualifiedTypeNameHistroy>

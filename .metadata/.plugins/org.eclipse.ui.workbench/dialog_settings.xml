@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.wst.xml.ui.internal.wizards.NewXMLWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.jboss.tools.batch.ui"/>
+			<item value="org.jboss.tools.cdi.ui"/>
+			<item value="org.eclipse.emf.codegen.ecore.ui.wizardCategory"/>
+			<item value="hibernatewizards"/>
+			<item value="org.jboss.ide.eclipse.ui.wizards"/>
+			<item value="org.eclipse.jst.ws.ui.new"/>
+			<item value="org.eclipse.wst.XMLCategory"/>
+			<item value="org.eclipse.ui.Examples"/>
+			<item value="org.eclipse.ui.Examples/org.eclipse.wst.xml.examples"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<capabilities>
+	<capability name="Facelets">
+		<library name="facelets" />
+		<conflicting-library name="jsf-facelets.jar"/>
+		<file-addition file-name="/WEB-INF/web.xml"
+			label="Refresh Period Parameter" x-path="/web-app">
+			<![CDATA[<context-param> 
+  <param-name>facelets.REFRESH_PERIOD</param-name> 
+  <param-value>2</param-value> 
+</context-param>]]>
+		</file-addition>
+		<file-addition file-name="/WEB-INF/web.xml"
+			label="Default Sufix Parameter" x-path="/web-app">
+			<![CDATA[<context-param>
+  <param-name>javax.faces.DEFAULT_SUFFIX</param-name>
+  <param-value>.xhtml</param-value>
+</context-param>]]>
+		</file-addition>
+		<file-addition file-name="/WEB-INF/faces-config.xml"
+			label="View Handler" x-path="/faces-config/application">
+			<![CDATA[<view-handler>com.sun.facelets.FaceletViewHandler</view-handler>]]>
+		</file-addition>
+	</capability>
+</capabilities>

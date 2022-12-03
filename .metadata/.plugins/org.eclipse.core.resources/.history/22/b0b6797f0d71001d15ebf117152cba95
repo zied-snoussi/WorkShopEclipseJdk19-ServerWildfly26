@@ -1,0 +1,13 @@
+package metier.service;
+
+import javax.ejb.EJB;
+import javax.jws.WebService;
+
+import metier.session.IBanqueLocal;
+
+@WebService
+public class BanqueService {
+	@EJB(beanName="BK")
+	private IBanqueLocal metier;
+	
+}

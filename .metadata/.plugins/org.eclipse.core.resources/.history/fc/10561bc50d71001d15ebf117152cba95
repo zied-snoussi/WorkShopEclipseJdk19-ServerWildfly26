@@ -1,0 +1,19 @@
+package metier.service;
+
+import java.sql.Date;
+
+import javax.ejb.EJB;
+import javax.jws.WebService;
+
+import metier.entities.Compte;
+import metier.session.IBanqueLocal;
+
+@WebService
+public class BanqueService {
+	@EJB//(beanName="BK")
+	private IBanqueLocal metier;
+	public void addCompte(double soldeInitial) {
+		Compte cp=new Compte(soldeInitial,new Date(), true);
+		
+	}
+}
