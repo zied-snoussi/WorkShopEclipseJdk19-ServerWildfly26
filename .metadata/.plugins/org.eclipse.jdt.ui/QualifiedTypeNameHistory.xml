@@ -1,30 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.io.Serializable"/>
-    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
-    <fullyQualifiedTypeName name="javax.persistence.Table"/>
     <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
     <fullyQualifiedTypeName name="javax.persistence.Id"/>
     <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
     <fullyQualifiedTypeName name="javax.persistence.Column"/>
-    <fullyQualifiedTypeName name="javax.ejb.Remote"/>
     <fullyQualifiedTypeName name="javax.persistence.PersistenceContext"/>
     <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
     <fullyQualifiedTypeName name="javax.management.Query"/>
     <fullyQualifiedTypeName name="javax.jws.WebService"/>
-    <fullyQualifiedTypeName name="metier.session.IBanqueLocal"/>
     <fullyQualifiedTypeName name="javax.ejb.EJB"/>
     <fullyQualifiedTypeName name="metier.entities.Compte"/>
     <fullyQualifiedTypeName name="java.sql.Date"/>
     <fullyQualifiedTypeName name="javax.persistence.TemporalType"/>
     <fullyQualifiedTypeName name="javax.persistence.Temporal"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="javax.jws.WebMethod"/>
     <fullyQualifiedTypeName name="javax.jws.WebParam"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="javax.ejb.Stateless"/>
     <fullyQualifiedTypeName name="javax.jws.soap.SOAPBinding"/>
     <fullyQualifiedTypeName name="javax.jws.soap.SOAPBinding.ParameterStyle"/>
     <fullyQualifiedTypeName name="javax.jws.soap.SOAPBinding.Use"/>
     <fullyQualifiedTypeName name="javax.jws.WebResult"/>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
+    <fullyQualifiedTypeName name="io.undertow.server.handlers.proxy.mod_cluster.ModClusterStatus.Context"/>
+    <fullyQualifiedTypeName name="javax.naming.InitialContext"/>
+    <fullyQualifiedTypeName name="metier.session.IBanqueLocal"/>
+    <fullyQualifiedTypeName name="banque.metier.Compte"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Table"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="javax.ejb.Remote"/>
+    <fullyQualifiedTypeName name="javax.ejb.Stateless"/>
+    <fullyQualifiedTypeName name="javax.naming.Context"/>
+    <fullyQualifiedTypeName name="bean.session.GestionClient"/>
+    <fullyQualifiedTypeName name="bean.session.GestionClientBean"/>
+    <fullyQualifiedTypeName name="bean.entite.Client"/>
 </qualifiedTypeNameHistroy>

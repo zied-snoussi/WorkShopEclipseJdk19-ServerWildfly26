@@ -119,8 +119,6 @@
   <path value="C:/Users/zieds/wildfly-26.1.2.Final/modules/system/layers/base/javax/security/jacc/api/main/jboss-jacc-api_1.5_spec-2.0.0.Final.jar"/>
  </paths>
  <validation>
-  <core validator-id="jboss.cdi.core"/>
-  <core validator-id="batch-verification"/>
   <el/>
  </validation>
  <aliases/>

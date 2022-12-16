@@ -6,17 +6,25 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value=""/>
+		<item key="selection" value="taux"/>
 		<list key="findhistory">
+			<item value="decouvert"/>
+			<item value="taux"/>
+			<item value="CompteCourant"/>
+			<item value="String decouvert"/>
 			<item value="ressources"/>
 			<item value="ressource"/>
 		</list>
 		<list key="replacehistory">
+			<item value="taux"/>
+			<item value=""/>
+			<item value="CompteEpargne"/>
+			<item value="float taux"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="762"/>
-		<item key="DIALOG_Y_ORIGIN" value="228"/>
+		<item key="DIALOG_X_ORIGIN" value="-256"/>
+		<item key="DIALOG_Y_ORIGIN" value="282"/>
 		<item key="DIALOG_WIDTH" value="414"/>
 		<item key="DIALOG_HEIGHT" value="454"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>

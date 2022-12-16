@@ -34,11 +34,11 @@ public class BanqueService {
 	public Compte getCompte(@WebParam(name="code")int code){
 		return metier.getCompte(code);
 	}
-	@WebMethod(exclude=true)
+	@WebMethod//(exclude=true)
 	public void verser(@WebParam(name="montant")double mt,@WebParam(name="code")int code){
 		metier.verser(mt,code);
 	}
-	@WebMethod(exclude=true)
+	@WebMethod//(exclude=true)
 	public void retirer(@WebParam(name="montant")double mt,@WebParam(name="code")int code){
 		metier.retirer(mt,code);
 	}
